@@ -38,7 +38,10 @@ Samsung-Website/
 
 ##  Preview
 
-Screenshots or live demo link can be added here.  
+Screenshots or live demo link can be added here. 
+## Live Link ## : https://royalbalaji319-cloud.github.io/samsung-web/
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/7efe8428-3da6-4fee-a401-3aa307092a33" />
+
 (Example: GitHub Pages / Netlify)
 
 ---
